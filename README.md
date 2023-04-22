@@ -13,7 +13,18 @@ Main Highlights of the website:
 -An interactive game related to Renewable and Non Renewable Energy sources
 
 -A working model of a chatbot in the "Get Help" section, which consists of various predefined commands
-Try entering "where can i get solar panels"
+Try asking 
 
+1. "where can i get solar panels"
+
+2.  "what are the government schemes"
+
+3.  "what can i do for you"
+
+4.  "members of your organisation"
+
+5.  "ok"
+
+6.  "bye"
 
 View the website here:  https://sathwik9418.github.io/SolarZen-Uncease2k23/
